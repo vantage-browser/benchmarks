@@ -1,0 +1,5 @@
+BU_BENCH_REPO=https://github.com/browser-use/benchmark.git
+BU_BENCH_REF=main
+BU_BENCH_NAME=BU_Bench_V1
+ODYSSEYS_REPO=https://github.com/ljang0/Odysseys.git
+ODYSSEYS_REF=main

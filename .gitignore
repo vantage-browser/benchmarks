@@ -1,0 +1,10 @@
+/.venv/
+/upstream/
+/results/
+/run_data/
+/artifacts/
+.env
+*.log
+__pycache__/
+*.pyc
+# Never commit decrypted benchmark tasks, ground truth or trajectories.
